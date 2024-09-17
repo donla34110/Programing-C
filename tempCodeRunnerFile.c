@@ -1,1 +1,2 @@
-scanf("%d",&arr[i]);
+
+    printf("\n");
