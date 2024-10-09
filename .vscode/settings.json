@@ -61,5 +61,6 @@
     "conio.h": "c",
     "dos.h": "c",
     "algorithm": "c"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
